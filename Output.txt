@@ -1,0 +1,5 @@
+#If integrity has matched
+Integrity Verified
+
+#If integrity has failed
+Integrity Check Failed
